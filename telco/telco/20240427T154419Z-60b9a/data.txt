@@ -1,0 +1,17 @@
+file: telco.rds
+file_size: 26120
+pin_hash: 60b9a97b3a22fce6
+type: rds
+title: 'telco: a pinned list'
+description: Telco Customer Churn Prevention Model After Hyperparameter Tuning
+tags: ~
+urls: ~
+created: 20240427T154419Z
+api_version: 1
+user:
+  required_pkgs:
+  - glmnet
+  - parsnip
+  - recipes
+  - workflows
+  renv_lock: ~
